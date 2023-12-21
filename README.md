@@ -17,9 +17,10 @@ Memes before means: Forget utility, embrace absurdity. OG is all about the power
 Decentralized hilarity: No meme lords or gatekeepers here. OG empowers everyone to contribute their wit and humor, shaping the community through hilarious content and epic banter.
 Transparency and fairness: No rug pulls or shady shenanigans. OG operates with full transparency, ensuring everything we do is fueled by pure meme magic.
 Sustainable fun: We're here for the long haul. OG is built on a solid foundation to ensure our meme factory keeps pumping out laughs for generations to come.
+
 4. Tokenomics:
 
-OG Token boasts a total supply of 100 million tokens, ensuring there's enough meme fuel for everyone. We'll implement fair distribution mechanisms to prevent whales and ensure accessibility for all who want to join the fun. Transactions will be lightning-fast and secure thanks to the power of the Solana blockchain.
+OG Token boasts a total supply of 100 million tokens, ensuring there's enough meme fuel for everyone. We'll implement fair distribution mechanisms to prevent whales and ensure accessibility for all who want to join the fun. Transactions will be lightning-fast and secure thanks to the power of the Solana blockchain. 0% are thrown away with this safu project, and don't forget, LP is burnt.
 
 5. The OG Community:
 
@@ -29,12 +30,11 @@ Our community is our heart and soul. OG holders are more than just investors; th
 
 Ready to unleash your inner meme machine? Grab your OG Token and join the adventure! We're building a hilarious haven on the blockchain, and your contribution is crucial. So, spread the word, share your memes, and let's show the world that crypto can be downright fun.
 
-This is just a rough outline, and you can further expand on each section with more details about:
 
 Specific use cases for OG Tokens within the community (e.g., voting on memes, accessing exclusive content, tipping creators)
 Roadmap for future development (e.g., meme marketplace, meme collaboration tools, charitable initiatives)
 Marketing and community engagement strategies
 Detailed token distribution plan
-Remember, keep the tone lighthearted and inject plenty of humor throughout the whitepaper. Let your OG flag fly and show the world the power of a meme-fueled adventure!
+Remember, keep the tone lighthearted and inject plenty of humor throughout our environment. Let your OG flag fly and show the world the power of a meme-fueled adventure!
 
-I hope this helps you get started on your OG Token whitepaper. Feel free to ask if you need any further assistance!
+I hope this helps you get started on your OG Token journey. Feel free to join our telegram chat and ask if you need any further assistance!
